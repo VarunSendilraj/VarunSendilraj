@@ -9,7 +9,7 @@ I'm a Georgia Tech student passionate about creating accessible biotech and heal
 ### Scientific Research:
 - **DFUCare**: [Paper Publication](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1386613/abstract)  
 - **Plate-Q**: [Preprint](https://github.com/igemsoftware2021/Lambert_GA)  
-- **OpenMSI**: [GitHub Repository](https://github.com/VarunSendilraj/Open-MSI)  
+- **OpenMSI (Paper Comming Soon)**: [GitHub Repository](https://github.com/VarunSendilraj/Open-MSI)  
 - **ParpusECG (Physionet Challenge Top Award Winner)**: [Confrence Publication](https://cinc.org/2024/Program/accepted/495_Preprint.pdf)
 
 ### Consumer Applications:
