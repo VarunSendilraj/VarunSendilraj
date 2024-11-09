@@ -25,5 +25,5 @@ I'm a Georgia Tech student passionate about creating accessible biotech and heal
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-sendilraj/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vsendilraj_)  [![](https://visitcount.itsvg.in/api?id=VarunSendilraj&icon=0&color=8)](https://visitcount.itsvg.in)
-📫 Reach me at vsendilraj3@gatech.edu <br>
+<br>📫 Reach me at vsendilraj3@gatech.edu <br>
 
