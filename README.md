@@ -9,8 +9,8 @@ I'm a Georgia Tech student passionate about creating accessible biotech and heal
 ### Scientific Research:
 - **DFUCare**: [Paper Publication](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1386613/abstract)  
 - **Plate-Q**: [Preprint](https://github.com/igemsoftware2021/Lambert_GA)  
-- **OpenMSI (Software for MSI Research)**: [Confrence Publication](https://www.mssj.jp/conf/72/program/1A-O1-1500.html)  
-- **ParpusECG (Physionet ML Challenge Top Award Winner)**: [Confrence Publication](https://cinc.org/2024/Program/accepted/495_Preprint.pdf)
+- **OpenMSI (Software for MSI Research)**: [Conference Publication](https://www.mssj.jp/conf/72/program/1A-O1-1500.html)  
+- **ParpusECG (Physionet ML Challenge Top Award Winner)**: [Conference Publication](https://cinc.org/2024/Program/accepted/495_Preprint.pdf)
 
 ### Consumer Applications:
 - **Immersed**: [Demo](https://www.loom.com/share/2254a96e562e42809b42bfb2441f8c44)  
