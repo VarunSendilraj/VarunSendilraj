@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Varun 👋</h1>
 
-I'm a Georgia Tech student passionate about building accessible and efficient software solutions. I'm currently exploring the intersection of AI and Medicine.<br>
+I'm a Georgia Tech student passionate about building accessible and efficient software solutions. I'm currently exploring the ML, AI agents, and Medicine.<br>
 
 ---
 
